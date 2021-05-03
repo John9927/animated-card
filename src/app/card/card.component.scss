@@ -240,7 +240,7 @@ img {
   font-size: .65em;
   background: #f00;
   display: grid;
-  place-items: center;
+  align-items: center;
   z-index: 10;
   transition: opacity 75ms linear;
 }
